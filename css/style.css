@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #FFFFFF;
+}
+
+img{
+    width: 351px;
+    height: 115px;
+}
+
+.table{
+    border: 0px;
+    width: 100%;
+}
+
+#td1{
+    background-color: #EEEEEE;
+}
+
+#td2{
+    background-color: #7EE5DA;
+    width: 35%;
+}
+
+#td3{
+    background-color: #70CCC2;
+    font-size: 15px;
+    width: 20%;
+}
+
+#td4{
+    background-color: #62B3AA;
+    font-size: 15px;
+}
+
+footer{
+    text-align: center;
+    font-size: 15px;
+}
